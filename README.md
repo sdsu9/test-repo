@@ -1,2 +1,2 @@
 # test-repo
-Test
+This is a test.
